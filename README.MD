@@ -8,9 +8,10 @@
 
 # Ejecución
 1. Clonar repositorio
-2. Crear base de datos con el nombre maps e importar el archivo "maps.sql"
-3. Ejecutar backend con el comando node app.js
-4. Ejecutar front con el comando ng serve
+2. Ejecutar npm instal en la carpeta Backend
+3. Crear base de datos con el nombre maps e importar el archivo "maps.sql"
+4. Ejecutar backend con el comando node app.js
+5. Ejecutar front con el comando ng serve
 
 Nota: en la base de datos se encuentran 2 usuarios de prueba
 
